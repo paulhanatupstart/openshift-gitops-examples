@@ -6,7 +6,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: ""
+  host: bgd-bgd.apps.services.devops.use-1.ucloud.upstart.com
   port:
     targetPort: 8080
   to:
